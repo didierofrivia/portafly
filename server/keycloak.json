@@ -1,0 +1,10 @@
+{
+  "realm": "3scale",
+  "auth-server-url": "http://127.0.0.1:8080/auth/",
+  "ssl-required": "external",
+  "resource": "portafly-server",
+  "bearer-only": true,
+  "verify-token-audience": true,
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}
